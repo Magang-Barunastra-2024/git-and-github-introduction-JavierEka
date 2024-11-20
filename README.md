@@ -3,7 +3,7 @@
 
 | Nama  | Division        | Sub-Division  |
 | ----- | ---------- | ---------- |
-| Name here   | ELC/PGR | Sub-div |
+| Achmad Javier Eka Caraka   | ELC | Electrical Design |
 
 ## Early Procedure
 
