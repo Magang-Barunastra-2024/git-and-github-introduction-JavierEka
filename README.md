@@ -6,7 +6,13 @@
 | Achmad Javier Eka Caraka   | ELC | Electrical Design |
 
 ## Early Procedure
-
+### 1. Download and Install Git 
+    https://git-scm.com/downloads
+### 2. Create Github Account
+    https://github.com/join
+### 3. Configurate Setting On Git Bash
+    git config --global user.(insert username)
+    git config --global user.(insert email)
 ## Create Repository
 
 ## Push File from Local to Github
