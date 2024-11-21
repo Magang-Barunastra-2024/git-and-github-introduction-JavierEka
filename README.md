@@ -65,16 +65,16 @@
     git checkout -b (Branch Name)
 ### To Move Into The New Branch, Insert This Command on Git Bash
     git checkout (Branch Name)
-![alt text](images/new.png)
+![alt text](images/branch.png)
 ## Delete Branch in Github
 ### To Delete A Branch, Move To The Other Branch First 
     git checkout (Branch Name)
 ### Insert This Command On Git Bash to Delete The Branch
     git branch -d (Branch Name)
-![alt text](image/delete.png)
+![alt text](images/delete.png)
 ## Merge Branch in Github
 ### To Merge Branches, Choose The Branch That Will be The Main Branch
     git checkout (Branch Name)
 ### Insert This Command on Git Bash to Merge Branches
     git merge (Branch Name)
-## Other Procedure
+![alt text](images/merge.png)
